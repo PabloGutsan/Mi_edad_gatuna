@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Mi edad gatuna</string>
+    <string name="how_old_are_you">How old are you?</string>
+    <string name="your_age">Your age</string>
+    <string name="calculate">Calculate</string>
+    <string name="you_must_insert_you_age">You must insert you age</string>
+    <string name="result_text">Your cat age is %d years old</string>
+</resources>
